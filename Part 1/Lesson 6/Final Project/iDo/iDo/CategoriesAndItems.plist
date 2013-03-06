@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>categoryName</key>
+		<string>Homework</string>
+		<key>categoryItems</key>
+		<array>
+			<string>Finish essay</string>
+			<string>Read pages 40-55</string>
+			<string>Print out science homework</string>
+		</array>
+	</dict>
+	<dict>
+		<key>categoryName</key>
+		<string>Grocery List</string>
+		<key>categoryItems</key>
+		<array>
+			<string>Apples</string>
+			<string>Onions</string>
+			<string>Ramen noodles</string>
+			<string>Carrots</string>
+			<string>Risotto</string>
+			<string>Rice</string>
+		</array>
+	</dict>
+	<dict>
+		<key>categoryName</key>
+		<string>Work</string>
+		<key>categoryItems</key>
+		<array>
+			<string>Finish demo app</string>
+			<string>Prepare next sprint</string>
+		</array>
+	</dict>
+</array>
+</plist>
