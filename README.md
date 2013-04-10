@@ -31,3 +31,13 @@ Final project created throughout Part 1 - Lesson 8 of The Essentials of iOS App 
 --------
 
 Final project created throughout Part 2 - Lesson 9 of The Essentials of iOS App Development
+
+### Lesson 10
+--------
+
+Final project created throughout Part 2 - Lesson 10 of The Essentials of iOS App Development
+
+### Lesson 11
+--------
+
+Final project created throughout Part 2 - Lesson 11 of The Essentials of iOS App Development
