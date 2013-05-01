@@ -1,4 +1,10 @@
 # The Essentials of iOS App Development
+
+This repository corresponds to The Essentials of iOS App Development LiveLesson from Pearson. In the lessons, you learn how to create an iOS application from start to finish.
+You will find each Lesson's project in the repository under the corresponding Part and Lesson number.
+
+For more information please visit [my blog](http://iFe.li/ "iFeli"), check out my Twitter account @Airjordan12345, find me on App.net as @iFeli. Or you can read some of my tutorials at Ray Wenderlich's [website](http://www.raywenderlich.com "Ray Wenderlich") or the Lextech Global Services [blog](http://www.lextech.com/blog "Lextech Global Services").
+
 --------
 
 ## Part I 
@@ -17,8 +23,6 @@ Final project created throughout Part 1 - Lesson 6 of The Essentials of iOS App 
 --------
 
 Core Data Test project created throughout Part 1 - Lesson 7.5 of The Essentials of iOS App Development
-
-For more information please visit [my blog](http://iFe.li/ "iFeli").
 
 ### Lesson 8
 --------
