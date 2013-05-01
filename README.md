@@ -51,3 +51,8 @@ Final project created throughout Part 2 - Lesson 12 of The Essentials of iOS App
 --------
 
 Grand Central Dispatch demo created throughout Part 2 - Lesson 13 of The Essentials of iOS App Development
+
+### Lesson 14
+--------
+
+Final project created throughout Part 2 - Lesson 14 of The Essentials of iOS App Development
