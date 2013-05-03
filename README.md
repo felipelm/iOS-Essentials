@@ -65,3 +65,8 @@ Final project created throughout Part 2 - Lesson 14 of The Essentials of iOS App
 --------
 
 Final project created throughout Part 2 - Lesson 15 of The Essentials of iOS App Development
+
+### Lesson 16 - Submitting Your App to iTunes Connect
+--------
+
+Assets used in Part 2 - Lesson 16 of The Essentials of iOS App Development
