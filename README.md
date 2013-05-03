@@ -9,12 +9,12 @@ For more information please visit [my blog](http://iFe.li/ "iFeli"), check out m
 
 ## Part I 
 
-### Lesson 5 
+### Lesson 5 - Creating the UI in Interface Builder
 --------
 
 Files, images, resources and final project created throughout Part 1 - Lesson 5 of The Essentials of iOS App Development
 
-### Lesson 6
+### Lesson 6 - Programming the UI
 --------
 
 Final project created throughout Part 1 - Lesson 6 of The Essentials of iOS App Development
