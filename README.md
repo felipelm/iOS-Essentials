@@ -19,44 +19,49 @@ Files, images, resources and final project created throughout Part 1 - Lesson 5 
 
 Final project created throughout Part 1 - Lesson 6 of The Essentials of iOS App Development
 
-### Lesson 7
+### Lesson 7 - Understanding Core Data
 --------
 
 Core Data Test project created throughout Part 1 - Lesson 7.5 of The Essentials of iOS App Development
 
-### Lesson 8
+### Lesson 8 - Creating the Core Data Stack
 --------
 
 Final project created throughout Part 1 - Lesson 8 of The Essentials of iOS App Development
 
 ## Part II
 
-### Lesson 9
+### Lesson 9 - Connecting Core Data to the UI
 --------
 
 Final project created throughout Part 2 - Lesson 9 of The Essentials of iOS App Development
 
-### Lesson 10
+### Lesson 10 - UIKit Customization
 --------
 
 Final project created throughout Part 2 - Lesson 10 of The Essentials of iOS App Development
 
-### Lesson 11
+### Lesson 11 - Adding Social and Sharing Features
 --------
 
 Final project created throughout Part 2 - Lesson 11 of The Essentials of iOS App Development
 
-### Lesson 12
+### Lesson 12 - Making iDo Accessible
 --------
 
 Final project created throughout Part 2 - Lesson 12 of The Essentials of iOS App Development
 
-### Lesson 13
+### Lesson 13 - Working with Grand Central Dispatch
 --------
 
 Grand Central Dispatch demo created throughout Part 2 - Lesson 13 of The Essentials of iOS App Development
 
-### Lesson 14
+### Lesson 14 - Creating iDo for iPad
 --------
 
 Final project created throughout Part 2 - Lesson 14 of The Essentials of iOS App Development
+
+### Lesson 15 - Finalizing the iDo iPad Version
+--------
+
+Final project created throughout Part 2 - Lesson 15 of The Essentials of iOS App Development
